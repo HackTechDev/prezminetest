@@ -1,0 +1,13 @@
+<section>
+    <p>
+Minetest est écrit en C++ 
+Très léger et tourne facilement sur des machines peu puissantes.
+Les fichiers de configuration sont au format txt, ce qui facilite la personnalisation.
+Le jeu occupe peu de bande passante, ce qui est bien pratique lorsque votre établissement ne dispose pas d’une excellente connexion.
+Étant libre, le jeu offre une main totale à l’administrateur comme aux utilisateurs (configuration, personnalisation…).
+Le jeu est entièrement gratuit. Aucun frais n’est à envisager pour l’établissement.
+Le jeu est réellement multiplateforme, ce qui permet un fonctionnement dans tous les environnements scolaires.
+Installation très facile : un simple copier-coller suffit, ce qui est bien pratique sur les machines des établissements scolaires
+	</p>
+</section>
+

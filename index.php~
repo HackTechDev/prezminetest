@@ -45,15 +45,11 @@
                     include("title.php");
                     include("summary.php");
                     include("presentation.php");
-                    include("principe.php");
                     include("gaming.php");                    
                     include("coop.php");
-                    include("peda1.php");
-                    include("peda2.php");                    
-                    include("avantage1.php");
-                    include("avantage2.php");                                                            
+                    include("peda.php");
+                    include("avantage.php");                                        
                     include("programmation.php");
-                    include("imp3d.php");
                     include("lien.php");
                     include("livre.php");
                 ?>
