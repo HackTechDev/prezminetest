@@ -44,14 +44,21 @@
                     include("cover.php");
                     include("title.php");
                     include("summary.php");
+
                     include("presentation.php");
                     include("principe.php");
                     include("gaming.php");                    
                     include("coop.php");
+
                     include("peda1.php");
                     include("peda2.php");                    
+
                     include("avantage1.php");
                     include("avantage2.php");                                                            
+
+                    include("jouez1.php");
+                    include("jouer2.php");                                                            
+ 
                     include("programmation.php");
                     include("imp3d.php");
                     include("lien.php");
